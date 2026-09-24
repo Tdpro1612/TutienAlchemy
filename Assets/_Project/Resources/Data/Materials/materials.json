@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "materialID": "mat_ginseng",
+      "materialName": "MAT_GINSENG_NAME",
+      "materialDescription": "MAT_GINSENG_DESC",
+      "materialUsage": "MAT_GINSENG_USAGE",
+      "materialType": "Herb",
+      "materialFiveElements": "Wood",
+      "materialTier": 1,
+      "minYear": 50,
+      "maxYear": 500
+    },
+    {
+      "materialID": "mat_lingzhi",
+      "materialName": "MAT_LINGZHI_NAME",
+      "materialDescription": "MAT_LINGZHI_DESC",
+      "materialUsage": "MAT_LINGZHI_USAGE",
+      "materialType": "Herb",
+      "materialFiveElements": "Wood",
+      "materialTier": 2,
+      "minYear": 100,
+      "maxYear": 1000
+    },
+    {
+      "materialID": "mat_spirit_spring_water",
+      "materialName": "MAT_SPIRIT_SPRING_WATER_NAME",
+      "materialDescription": "MAT_SPIRIT_SPRING_WATER_DESC",
+      "materialUsage": "MAT_SPIRIT_SPRING_WATER_USAGE",
+      "materialType": "Liquid",
+      "materialFiveElements": "Water",
+      "materialTier": 1,
+      "minYear": 0,
+      "maxYear": 0
+    }
+  ]
+}

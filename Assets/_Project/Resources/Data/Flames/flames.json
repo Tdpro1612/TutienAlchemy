@@ -1,0 +1,24 @@
+{
+  "flames": [
+    {
+      "name_key": "FLAME_VERY_SMALL_NAME",
+      "level": 1
+    },
+    {
+      "name_key": "FLAME_SMALL_NAME",
+      "level": 2
+    },
+    {
+      "name_key": "FLAME_NORMAL_NAME",
+      "level": 3
+    },
+    {
+      "name_key": "FLAME_LARGE_NAME",
+      "level": 4
+    },
+    {
+      "name_key": "FLAME_VERY_LARGE_NAME",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "texts": {
+    "MAT_GINSENG_NAME": "Nhân Sâm",
+    "MAT_GINSENG_DESC": "Một loại dược thảo thông dụng mọc ở nơi linh khí đậm đặc, rễ tua tủa như hình người.",
+    "MAT_GINSENG_USAGE": "Dùng làm dược liệu chính cho các loại đan dược bồi bổ khí huyết, tăng cường nguyên khí.",
+
+    "MAT_LINGZHI_NAME": "Linh Chi",
+    "MAT_LINGZHI_DESC": "Nấm quý có vân mây bao phủ, mang dược lực mạnh mẽ giúp tịnh hóa kinh mạch.",
+    "MAT_LINGZHI_USAGE": "Linh chi ngàn năm hấp thu linh khí nhật nguyệt, là nguyên liệu quý để luyện đan phá cấp.",
+
+    "MAT_SPIRIT_SPRING_WATER_NAME": "Linh Tuyền Thủy",
+    "MAT_SPIRIT_SPRING_WATER_DESC": "Làn nước trong vắt tụ từ linh mạch ngầm, mang đặc tính ôn hòa, dễ dung hợp.",
+    "MAT_SPIRIT_SPRING_WATER_USAGE": "Nguồn nước linh khí tinh khiết, dùng làm dung môi điều hòa dược tính khi luyện đan.",
+
+    "FLAME_VERY_SMALL_NAME": "Lửa rất nhỏ",
+    "FLAME_SMALL_NAME": "Lửa nhỏ",
+    "FLAME_NORMAL_NAME": "Lửa thường",
+    "FLAME_LARGE_NAME": "Lửa lớn",
+    "FLAME_VERY_LARGE_NAME": "Lửa rất lớn"
+  }
+}
